@@ -59,7 +59,7 @@ This app uses Intercom's P2P sidechain protocol for agent-to-agent coordination.
 ## 💰 Trac Address (Fork Reward)
 
 ```
-trac13l0xqxl6vsn7ep0j3zf5rr4w0etpvv2ms889w74fhjtcuq6ke68q3r0kj9
+trac19u5l9699tpkavtax0ndm08dpqznj4znexxfg6fcm9wpsuyf0ru6qg307e0
 ```
 
 > **Replace this** with your actual Trac address to receive the 500 TNK fork payout.
